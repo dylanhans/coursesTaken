@@ -1,6 +1,6 @@
 Here, you can find a list of courses I've taken to enhance my skills and knowledge in various domains.
 
-## Relevant Courses
+## 📕 Relevant Courses
 
 - **Algorithms I**
 
